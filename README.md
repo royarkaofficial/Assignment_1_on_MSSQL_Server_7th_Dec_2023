@@ -1,0 +1,1 @@
+This is Assignemnt 1 on MSSQL Server on 7th Dec 2023.
